@@ -32,7 +32,7 @@ Project 4 - Reinforcement Learning: CartPole Agent
 Implemented and compared a random agent vs. a Q-Learning agent in the CartPole-v1 environment. Explored the RL loop and its connection to RLHF in modern LLMs.
 Technologies: Python, Gymnasium, NumPy, Q-Learning
 
- Project 5 - AI Medication Management Agent
+Project 5 - AI Medication Management Agent
 Built a healthcare AI agent combining an LSTM deep learning model with GPT-4 to predict missed medication doses and trigger intelligent patient notifications.
 Technologies: Python, TensorFlow, OpenAI API, LSTM, GPT-4
 
