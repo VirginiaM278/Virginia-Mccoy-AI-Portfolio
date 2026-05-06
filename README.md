@@ -1,4 +1,5 @@
 Virginia Mccoy — AI Portfolio 
+
 Applied AI and Robotics Program | Houston Community College
 Welcome to my AI portfolio! This repository showcases the projects I built throughout my studies, covering deep learning, computer vision, generative AI, reinforcement learning, and intelligent agent systems.
 
@@ -18,6 +19,7 @@ Tools: Google Colab, Jupyter Notebook, GitHub, Hugging Face
 
 
 Featured Projects
+
 Project 1 - Neural Network Foundations
 Built neural networks from scratch using NumPy, then rebuilt the same models in PyTorch and TensorFlow. Trained on the Fashion-MNIST dataset with hyperparameter tuning and dropout regularization.
 Technologies: Python, NumPy, PyTorch, TensorFlow, Keras
