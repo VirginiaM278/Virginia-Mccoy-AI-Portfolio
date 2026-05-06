@@ -4,6 +4,7 @@ Applied AI and Robotics Program | Houston Community College
 Welcome to my AI portfolio! This repository showcases the projects I built throughout my studies, covering deep learning, computer vision, generative AI, reinforcement learning, and intelligent agent systems.
 
 About Me
+
 I am a student in the Applied AI and Robotics program with hands-on experience building and training AI models across a wide range of domains. My work spans foundational neural networks all the way to production-style AI agents powered by large language models.
 
 Skills & Technologies
