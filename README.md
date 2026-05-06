@@ -1,4 +1,4 @@
-*Virginia Mccoy_AI Portfolio*
+_Virginia Mccoy_AI Portfolio_
 
 Applied AI and Robotics Program | Houston Community College
 Welcome to my AI portfolio! This repository showcases the projects I built throughout my studies, covering deep learning, computer vision, generative AI, reinforcement learning, and intelligent agent systems.
